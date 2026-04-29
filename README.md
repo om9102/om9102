@@ -109,21 +109,7 @@
 
 ---
 
-## 🎯 Currently Working On
 
-- 🔐 Learning **Spring Security & JWT Authentication**
-- 💳 Integrating **Razorpay Payment Gateway** in CourseHub
-- 📘 Solving **DSA problems** in Java on LeetCode
-- 📜 Completing **Spring Boot certification** on Udemy
-
----
-
-## 💬 Fun Fact
-
-> I started with Android development and fell in love 
-> with backend engineering — now I build both. 
-> Clean architecture and real problem-solving 
-> is what drives me every day.
 
 ---
 
